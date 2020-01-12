@@ -9,7 +9,6 @@ import com.sun.jersey.api.client.config.DefaultClientConfig;
 import com.sun.jersey.api.json.JSONConfiguration;
 
 public class RestClient {
-	
 	public static void main(String[] args)
 	{
 		//Codigo para invocar Cliente Rest.
